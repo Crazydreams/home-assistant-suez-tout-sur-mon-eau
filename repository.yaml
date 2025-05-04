@@ -1,4 +1,3 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: home-assistant-suez-tout-sur-mon-eau
-url: 'https://github.com/Crazydreams/home-assistant-suez-tout-sur-mon-eau'
-maintainer: sannremy
+url: https://github.com/Crazydreams/home-assistant-suez-tout-sur-mon-eau
